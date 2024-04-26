@@ -1,6 +1,6 @@
 ![Header](https://github.com/Nurbek878/Nurbek878/blob/main/assets/header3.png)
 ### About me
-Hi there 👋. My name is Nurbek, and I am a Python developer. I have mastered frameworks such as Django, Django REST Framework, Flash and Fast AVI, which allows me to create scalable and efficient web applications. I strive to constantly improve my skills and am open to new projects and ideas. Let's create something great together!
+Hi there 👋. I'm Nurbek, and I am a Python developer. I have mastered frameworks such as Django, Django REST Framework, Flask and Fast API, which allows me to create scalable and efficient web applications. I strive to constantly improve my skills and am open to new projects and ideas. Let's create something great together!
 ### Languages and Tools
 ![Python](https://img.shields.io/badge/python-%23092E20?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
